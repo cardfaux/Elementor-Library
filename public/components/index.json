@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Hero – Split Image",
+    "preview": "/previews/hero-split.webp",
+    "jsonPath": "/components/hero-split.json"
+  },
+  {
+    "name": "CTA – Centered",
+    "preview": "/previews/cta-centered.webp",
+    "jsonPath": "/components/cta-centered.json"
+  }
+]
