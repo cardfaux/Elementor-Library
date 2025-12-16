@@ -1,5 +1,10 @@
 [
   {
+    "name": "counter",
+    "preview": "/previews/counter.webp",
+    "jsonPath": "/components/counter.json"
+  },
+  {
     "name": "cta centered",
     "preview": "/previews/cta-centered.webp",
     "jsonPath": "/components/cta-centered.json"
